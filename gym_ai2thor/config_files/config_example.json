@@ -1,0 +1,28 @@
+{
+    "render_options": {"depth": true},
+    "open_close_interaction": true,
+    "pickup_put_interaction": true,
+    "pickup_objects": [
+        "Mug"
+    ],
+    "acceptable_receptacles": [
+        "CounterTop",
+        "TableTop",
+        "Sink"
+    ],
+    "openable_objects": [
+        "Microwave"
+    ],
+    "scene_id": "FloorPlan121",
+    "grayscale": false,
+    "resolution": [84, 84],
+    "cameraY": 0.1,
+    "gridSize": 0.25,
+    "continuous_movement": false,
+    "build_file_name": false,
+    "task": {
+        "task_name": "MoveToObjectTask",
+        "target_objects": {"Microwave": 1},
+        "position_of_target": "Microwave"
+    }
+}
