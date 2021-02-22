@@ -1,1 +1,2 @@
-Stable Baselines for NFE is a set of implementations in AI2THOR environment of reinforcement learning algorithms based on Stable Baselines.
+Stable Baselines for NFE is a set of implementations in AI2THOR environment of reinforcement learning algorithms based on [Stable Baselines](https://github.com/hill-a/stable-baselines)
+-------
